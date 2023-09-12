@@ -1,9 +1,12 @@
-# Whapi.OnLine
+# RECEPCIÓN DE DTE
 
-## API para Integración WhatsApp con Sistema Propio.
+## DTE: DOCUMENTO TRIBUTARIO ELECTRÓNICO
 
-API Diseñada para que el programador pueda realizar una rápida Integración de Whatsapp con cualquier tipo de Software Propio.
-La comunicación entre el Servidor de Whatsapp se realiza a traves de Datos Json o Archivos de Texto.
+Este módulo permite capturar los documentos emitidos por los proveedores.
+Los documentos compatibles son:facturas de compra, notas de crédito y notas de débito.
+Por normativa los proveedores de facturación electrónica deben realizar el siguiente proceso:
+1.-Enviar el Xml Dte al sii via webservice.
+2.-Enviar el Xml Dte al cliente via correo.
 
 ## Características:
 -   🔲 **Compatibilidad:** Windows, Linux y Mac.
