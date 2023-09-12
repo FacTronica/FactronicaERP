@@ -3,7 +3,7 @@
 ## DTE: DOCUMENTO TRIBUTARIO ELECTRÓNICO
 
 Este módulo permite capturar los documentos emitidos por los proveedores.
-Los documentos compatibles son: facturas de compra, notas de crédito y notas de débito.
+<br>Los documentos compatibles son: facturas de compra, notas de crédito y notas de débito.
 
 ## Normativa SII:
 Por normativa los proveedores de facturación electrónica deben realizar el siguiente proceso:
