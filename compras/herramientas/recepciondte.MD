@@ -16,11 +16,11 @@ Por normativa los proveedores de facturación electrónica deben realizar el sig
 <img src="https://whapi.online/assets/img/demo_mensaje_con_imagen.jpg"   />
 
 
-## Documentación
+## Configuración del Módulo:
+Menú: Compras > Mantención > Configuración
+<br>En la sección Correo Dte Recibidos:
 
-A continuación se detalla el procedimiento a seguir para realizar la integración.
-
--   [01.-aaaa)
--   [02.-bbb]
--   [03.-nnn]
+-   [01.-Host: {mail.dominio.cl:993/imap/ssl/novalidate-cert}INBOX]
+-   [02.-Correo: compras112223334@dominio.cl]
+-   [03.-Clave: clavedelmail]
  
