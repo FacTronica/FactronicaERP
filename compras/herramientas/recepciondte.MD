@@ -24,5 +24,6 @@ Menú: Compras > Mantención > Configuración
 -   02.-Correo: compras112223334@dominio.cl
 -   03.-Clave: clavedelmail
 
-compras/herramientas/correo_compras.png
+<img src="correo_compras.png"   />
+
  
