@@ -14,13 +14,14 @@ Por normativa los proveedores de facturación electrónica deben realizar el sig
 
 
 ## Configuración del Módulo:
-Menú: Compras > Mantención > Configuración
-<br>En la sección Correo Dte Recibidos:
+La configuracion se realiza en <b>Menú: Compras > Mantención > Configuración</b>
+<br>En la sección Correo Compras se deben configurar los siguientes parámetros.
 
 -   01.-Host: {mail.dominio.cl:993/imap/ssl/novalidate-cert}INBOX
 -   02.-Correo: compras112223334@dominio.cl
 -   03.-Clave: clavedelmail
 
+Imagen de ejemplo:
 <img src="correo_compras.png"   />
 
  
