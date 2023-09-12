@@ -12,9 +12,6 @@ Por normativa los proveedores de facturación electrónica deben realizar el sig
 
 -   🖥 **Enviar el Xml Dte al cliente via correo. 
 
-**Ejemplo de Mensaje Enviado por Whapi.OnLine**
-<img src="https://whapi.online/assets/img/demo_mensaje_con_imagen.jpg"   />
-
 
 ## Configuración del Módulo:
 Menú: Compras > Mantención > Configuración
