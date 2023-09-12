@@ -20,7 +20,9 @@ Por normativa los proveedores de facturación electrónica deben realizar el sig
 Menú: Compras > Mantención > Configuración
 <br>En la sección Correo Dte Recibidos:
 
--   [01.-Host: {mail.dominio.cl:993/imap/ssl/novalidate-cert}INBOX]
--   [02.-Correo: compras112223334@dominio.cl]
--   [03.-Clave: clavedelmail]
+-   01.-Host: {mail.dominio.cl:993/imap/ssl/novalidate-cert}INBOX
+-   02.-Correo: compras112223334@dominio.cl
+-   03.-Clave: clavedelmail
+
+compras/herramientas/correo_compras.png
  
