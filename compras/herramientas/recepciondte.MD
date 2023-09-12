@@ -12,6 +12,10 @@ Por normativa los proveedores de facturación electrónica deben realizar el sig
 
 -   🖥 **Enviar el Xml Dte al cliente via correo. 
 
+## Correo para Compras:
+Se recomienda crear un correo para uso exclusivo de las compras.
+<br>Además en la casilla de correo se debe crear una carpeta con el nombre <b>leidos</b>
+<br>Cuando la plataforma va capturando los correos los va moviendo a la carpeta leidos.
 
 ## Configuración del Módulo:
 La configuracion se realiza en <b>Menú: Compras > Mantención > Configuración</b>
@@ -23,5 +27,11 @@ La configuracion se realiza en <b>Menú: Compras > Mantención > Configuración<
 
 Imagen de ejemplo:
 <img src="correo_compras.png"   />
+
+
+## Informar correo en el sii:
+El correo se debe informar al sii siguiendo los siguientes pasos
+
+
 
  
